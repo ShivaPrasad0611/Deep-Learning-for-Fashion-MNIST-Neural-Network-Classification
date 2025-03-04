@@ -42,11 +42,11 @@ The dataset is a popular benchmark for machine learning models in image classifi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://ShivaPrasad0611/Deep-Learning-for-Fashion-MNIST-Neural-Network-Classification.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repository
+   cd Deep-Learning-for-Fashion-MNIST-Neural-Network-Classification
    ```
 3. Install dependencies:
    ```sh
