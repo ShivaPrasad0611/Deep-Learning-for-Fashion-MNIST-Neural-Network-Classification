@@ -91,24 +91,11 @@ The trained model achieves a high accuracy on the Fashion MNIST test set. Perfor
 - Experimenting with different architectures (e.g., CNNs for better accuracy)
 - Fine-tuning hyperparameters like learning rate and batch size
 
-## Contributing
 
-If you want to contribute:
 
-- Fork the repository
-- Create a new branch (`git checkout -b feature-branch`)
-- Commit changes (`git commit -m 'Add feature'`)
-- Push to the branch (`git push origin feature-branch`)
-- Open a Pull Request
 
-## License
-
-```
-MIT License
-Copyright (c) 2025
-```
 
 ## Contact
 
-For any questions or feedback, you can reach me at [your email] or open an issue in the repository.
+For any questions or feedback, you can reach me at shivabanada7999@gmail.com or open an issue in the repository.
 
